@@ -9,8 +9,8 @@ command_for_file=$3
 # Help function
 print_help() {
   echo "Usage: $0 <file_extension> <destination_folder> <command_for_file>"
-  echo "Description: This script utility loops the current folder searching for" 
-  echo "files with extension <file_extension> and apply a command, storing the"
+  echo "Description: This script utility loops the current folder, searching" 
+  echo "for files with a specific extension and applies a command, storing the"
   echo "standard output in a destination output folder."
   echo "Arguments:"
   echo "  <file_extension>            The extension of the files to process"
