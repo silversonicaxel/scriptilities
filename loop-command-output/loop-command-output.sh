@@ -45,7 +45,7 @@ if [ -z "$command_for_file" ]; then
 fi
 
 
-# Script utilitzy execution
+# Script utility execution
 mkdir -p "$destination_output_folder"
 
 find . -type f -name "*.${file_extension}" -print0 | while IFS= read -r -d '' file; do
