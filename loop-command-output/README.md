@@ -14,6 +14,6 @@ destination output folder.
 
 ### Arguments:
 
-<file_extension> The extension of the files to process
-<destination_output_folder> The folder where command standard output is stored
-<command_for_file> The command to be run against every processed file
+- `file_extension` The extension of the files to process
+- `destination_output_folder` The folder where command standard output is stored
+- `command_for_file` The command to be run against every processed file
