@@ -1,5 +1,5 @@
 # Scriptinodilities
 
-Script for Node.js utilities
+Script for Node.js utilities.
 
 [loop command output](./loop-command-output)
